@@ -94,7 +94,7 @@ export class Service {
     }
   }
 
-  //Storage Service
+  //Storage Services
 
   async uploadFile(File){
     try {
